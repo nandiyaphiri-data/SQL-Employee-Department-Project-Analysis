@@ -19,6 +19,7 @@ Identify employees working on multiple projects
 Analyse project start and end dates
 Calculate project and employee statistics
 Use SQL to answer practical business questions
+
 🗂️ Dataset
 The project contains three main datasets:
 
@@ -122,6 +123,7 @@ Which department has the maximum number of employees working on multiple project
 These questions provide practical experience in combining employee, department and project data using SQL.
 
 📊 Key Analysis Areas
+
 👥 Employee Analysis
 Analysis of employee salaries, joining dates, tenure, department membership and project participation.
 
@@ -162,6 +164,7 @@ SQL-Employee-Department-Project-Analysis/
     ├── employee_analysis.sql
     ├── department_analysis.sql
     └── project_analysis.sql
+
 💡 What I Learned
 This project strengthened my ability to work with relational datasets and use SQL to transform raw data into meaningful business information.
 
