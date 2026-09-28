@@ -1,4 +1,5 @@
 SQL Employee, Department & Project Analysis
+
 📌 Project Overview
 This project demonstrates my practical SQL skills through analysis of employee, department, salary, and project data.
 
