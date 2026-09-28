@@ -162,10 +162,7 @@ SQL-Employee-Department-Project-Analysis/
 │
 ├── Practice questions.docx
 │
-└── SQL/
-    ├── employee_analysis.sql
-    ├── department_analysis.sql
-    └── project_analysis.sql
+└── SQL screenshoots
 
 💡 What I Learned
 This project strengthened my ability to work with relational datasets and use SQL to transform raw data into meaningful business information.
