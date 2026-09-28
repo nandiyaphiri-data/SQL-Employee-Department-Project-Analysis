@@ -135,12 +135,17 @@ Analysis of project assignments, project timelines, ongoing projects and employe
 Analysis of employee compensation using total salary expenses, average salaries and highest-paid employees across departments.
 
 🔎 Key Insights
-Legal & Compliance had the highest total salary expense at $17.71M, followed by Human Resources ($17.32M) and Finance & Accounting ($17.05M).
-Finance & Accounting recorded the highest average salary at $84,415.32.
-Employee numbers were highest in Legal & Compliance and Human Resources (216 employees each).
-Hiring peaked in 2022 with 415 employees joining, followed by 2024 with 404 and 2021 with 394.
-Customer Service Department handled the highest number of projects (4), while R&D, Sales, Procurement & Supply Chain, and HR handled 3 projects each.
-No employee was assigned to more than one project, indicating that employees had single-project assignments in the dataset.
+1. Legal & Compliance had the highest total salary expense at $17.71M, followed by Human Resources ($17.32M) and Finance & Accounting ($17.05M).
+ 
+2. Finance & Accounting recorded the highest average salary at $84,415.32.
+
+3. Total Employees were highest in Legal & Compliance and Human Resources (216 employees each).
+
+4. Hiring peaked in 2022 with 415 employees joining, followed by 2024 with 404 and 2021 with 394.
+
+5. Customer Service Department handled the highest number of projects (4), while R&D, Sales, Procurement & Supply Chain, and HR handled 3 projects each.
+
+6. No employee was assigned to more than one project, indicating that employees had single-project assignments in the dataset.
 
 📁 Repository Structure
 SQL-Employee-Department-Project-Analysis/
