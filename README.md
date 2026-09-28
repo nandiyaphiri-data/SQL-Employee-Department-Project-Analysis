@@ -166,7 +166,7 @@ Analysis of employee compensation using total salary expenses, average salaries 
 📁 Repository Structure
 
 SQL-Employee-Department-Project-Analysis/
-│
+├─ SQL assignment.sql
 ├── README.md
 │
 ├── employees_large.csv
@@ -175,7 +175,7 @@ SQL-Employee-Department-Project-Analysis/
 │
 ├── Practice questions.docx
 │
-└── SQL screenshoots
+└── SQL screenshoots 
 
 💡 What I Learned
 
