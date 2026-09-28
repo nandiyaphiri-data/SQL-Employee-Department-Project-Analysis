@@ -151,6 +151,7 @@ Analysis of employee compensation using total salary expenses, average salaries 
 6. No employee was assigned to more than one project, indicating that employees had single-project assignments in the dataset.
 
 📁 Repository Structure
+
 SQL-Employee-Department-Project-Analysis/
 │
 ├── README.md
