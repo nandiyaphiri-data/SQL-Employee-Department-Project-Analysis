@@ -1,6 +1,7 @@
 SQL Employee, Department & Project Analysis
 
 📌 Project Overview
+
 This project demonstrates my practical SQL skills through analysis of employee, department, salary, and project data.
 
 The project uses relational datasets to answer business-related questions involving employee information, departments, salaries, employment dates, and project assignments.
@@ -8,6 +9,7 @@ The project uses relational datasets to answer business-related questions involv
 The analysis focuses on extracting meaningful information from multiple related tables using SQL queries, joins, filtering, aggregation, date analysis, and subqueries.
 
 🎯 Objectives
+
 The main objectives of this project were to:
 
 Retrieve and analyse employee information
@@ -25,6 +27,7 @@ Use SQL to answer practical business questions
 The project contains three main datasets:
 
 1. employees_large.csv
+
 Contains employee-related information used for analysing:
 
 Employee names
@@ -34,9 +37,11 @@ Department assignments
 Employee-level metrics
 
 2. departments_large.csv
+
 Contains department information used to connect employees to their respective departments and perform department-level analysis.
 
 3. projects_large.csv
+
 Contains project assignment information, including:
 
 Project ID
@@ -47,6 +52,7 @@ Project end date
 The project dataset allows analysis of employee project assignments, project timelines, ongoing projects, and employees working on multiple projects.
 
 🔗 Data Relationships
+
 The datasets are connected through common identifiers.
 
 departments_large.csv
@@ -58,6 +64,7 @@ employees_large.csv
         │ Employee ID
         ▼
 projects_large.csv
+
 This relational structure allows SQL queries to combine employee, department, and project information for more detailed analysis.
 
 🛠️ SQL Skills Demonstrated
@@ -96,6 +103,7 @@ Employee project-count analysis
 Multiple-project analysis
 
 🔍 Business Questions Explored
+
 The project addresses practical questions such as:
 
 Employee & Department Analysis
@@ -126,18 +134,23 @@ These questions provide practical experience in combining employee, department a
 📊 Key Analysis Areas
 
 👥 Employee Analysis
+
 Analysis of employee salaries, joining dates, tenure, department membership and project participation.
 
 🏢 Department Analysis
+
 Comparison of employee counts, salary expenses, average salaries and project activity across departments.
 
 📁 Project Analysis
+
 Analysis of project assignments, project timelines, ongoing projects and employees participating in multiple projects.
 
 💰 Salary Analysis
+
 Analysis of employee compensation using total salary expenses, average salaries and highest-paid employees across departments.
 
 🔎 Key Insights
+
 1. Legal & Compliance had the highest total salary expense at $17.71M, followed by Human Resources ($17.32M) and Finance & Accounting ($17.05M).
  
 2. Finance & Accounting recorded the highest average salary at $84,415.32.
@@ -165,6 +178,7 @@ SQL-Employee-Department-Project-Analysis/
 └── SQL screenshoots
 
 💡 What I Learned
+
 This project strengthened my ability to work with relational datasets and use SQL to transform raw data into meaningful business information.
 
 Through this project, I developed practical experience in:
@@ -179,7 +193,9 @@ Analysing employee tenure
 Analysing project assignments and timelines
 Identifying employees working across multiple projects
 Using SQL to derive business insights
+
 🚀 Future Improvements
+
 I plan to continue expanding my SQL portfolio by working with larger and more complex datasets and applying SQL to areas such as:
 
 Financial analysis
