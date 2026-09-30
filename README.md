@@ -2,7 +2,7 @@ SQL Employee, Department & Project Analysis
 
 📌 Project Overview
 
-This project demonstrates my practical SQL skills through analysis of employee, department, salary, and project data.
+This project demonstrates my practical PostgreSQL skills through analysis of employee, department, salary, and project data.
 
 The project uses relational datasets to answer business-related questions involving employee information, departments, salaries, employment dates, and project assignments.
 
